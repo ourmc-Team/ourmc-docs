@@ -50,7 +50,7 @@ export default defineConfig({
   },
 
   footer: {
-      message: 'Powered by <a href="https://vitepress.dev/" target="_blank">VitePress</a> & Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a><br>本站仓库地址：<a href="https://github.com/WHang2008/ourmc-docs" target="_blank">WHang2008/ourmc-docs</a>',
+      message: 'Powered by <a href="https://vitepress.dev/" target="_blank">VitePress</a> & Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a><br>本站仓库地址：<a href="https://github.com/ourmc-Team/ourmc-docs" target="_blank">ourmc-Team/ourmc-docs</a>',
       copyright: 'Copyright © 2026 ourmc team. All Rights Reserved.'
     },
 
