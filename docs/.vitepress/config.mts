@@ -51,7 +51,7 @@ export default defineConfig({
 
   footer: {
       message: '根据 CC-BY-SA 4.0 许可协议授权',
-      copyright: '版权所有 © 2020-至今 Project X 社区'
+      copyright: '版权所有 © 2026 ourmc Team'
     },
 
     outline: {
