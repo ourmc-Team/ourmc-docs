@@ -50,9 +50,8 @@ export default defineConfig({
   },
 
   footer: {
-      message: '本站文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0 (署名-非商业性使用-相同方式共享)</a> 许可协议。<br>
-Powered by <a href="https://vitepress.dev/" target="_blank">VitePress</a> & Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a><br>本站仓库地址：<a href="https://github.com/ourmc-Team/ourmc-docs" target="_blank">ourmc-Team/ourmc-docs</a>',
-      copyright: 'Copyright © 2026 ourmc Team. All Rights Reserved.'
+      message: '根据 CC-BY-SA 4.0 许可协议授权',
+      copyright: '版权所有 © 2020-至今 Project X 社区'
     },
 
     outline: {
