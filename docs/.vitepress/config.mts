@@ -41,7 +41,7 @@ export default defineConfig({
       {
         text: '了解更多',
         items: [
-          { text: '服务器人物档案', link: '/guide/players' },
+          { text: '运营团队', link: '/guide/players' },
           { text: '新手指南', link: '/guide/newbie' },
           { text: '封禁相关', link: '/guide/ban' }
         ]
