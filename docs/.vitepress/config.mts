@@ -41,17 +41,18 @@ export default defineConfig({
       {
         text: '了解更多',
         items: [
-          { text: '运营团队', link: '/guide/players' },
+          { text: '服务器人物档案', link: '/guide/players' },
           { text: '新手指南', link: '/guide/newbie' },
-          { text: '封禁相关', link: '/guide/ban' }
+          { text: '封禁相关', link: '/guide/ban' },
+          { text: '常见问题', link: '/guide/faq' }
         ]
       }
     ]
   },
 
   footer: {
-      message: '根据 CC-BY-SA 4.0 许可协议授权',
-      copyright: '版权所有 © 2026 ourmc Team'
+      message: 'Powered by <a href="https://vitepress.dev/" target="_blank">VitePress</a> & Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a><br>本站仓库地址：<a href="https://github.com/ourmc-Team/ourmc-docs" target="_blank">ourmc-Team/ourmc-docs</a>',
+      copyright: 'Copyright © 2026 ourmc Team. All Rights Reserved.'
     },
 
     outline: {
