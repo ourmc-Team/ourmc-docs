@@ -12,6 +12,9 @@
 
 > **注意：** 在 PCL2 启动器中完成配置后，**不要**点击“设置为 LittleSkin”。
 
+## 遇到神秘紫黑方块？
+别害怕，只是资源加载失败了，重进服务器一遍试试，需要允许来自服务器的资源包哦。
+
 ## 如何安装小地图
 
 常用的小地图模组是 Xaero 系列，主要为 [Xaero 的小地图 (Xaero's Minimap)](https://www.mcmod.cn/class/1701.html) 和 [Xaero 的世界地图 (Xaero's World Map)](https://www.mcmod.cn/class/1483.html)，安装这两个模组即可。
