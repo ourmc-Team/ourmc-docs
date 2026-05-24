@@ -2,7 +2,7 @@
 
 本文档汇总了社群中新手常问的一些问题，旨在减少重复解答，方便大家查阅。
 
-> 部分 Minecraft 基础教程推荐前往 [Minecraft Wiki](https://zh.minecraft.wiki) 或 [HMCL 的新手导航文档](https://docs.hmcl.net/) 参考（另外，PCL2 启动器的“更多 — 帮助”页面也内置了大量实用教程）。
+> 部分 Minecraft 基础教程推荐前往 [Minecraft Wiki](https://zh.minecraft.wiki) 参考（另外，PCL2 启动器的“更多 — 帮助”页面 和 [HMCL文档](https://docs.hmcl.net/) 里也准备了大量实用教程）。
 
 - 如果仍然无法解决，请学会有效提问。建议先尝试自行了解问题背景，能清晰描述自己的疑问后再向他人求助；提问时最好附上问题截图（温馨提示：请不要用手机拍摄电脑屏幕，这样的图片往往难以辨认 (T_T)）。
 
