@@ -14,6 +14,8 @@ hero:
       text: 快速加入
       link: /guide/join
 
+### 服务器目前已濒临难以维持的状态，若有玩家愿意为服务器提供资金、设备支持，请联系腐竹QQ 3877364376
+
 features:
   - title: 服务器环境
     details: 大家都很好的哦

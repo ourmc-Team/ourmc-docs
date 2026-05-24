@@ -21,7 +21,10 @@
 ![PCL2](/PCL2.png)
 > 认证服务器（必填）：`https://skin.our-mc.cn/api/yggdrasil`        
 > 注册连接：`https://skin.our-mc.cn/auth/register`          
-填写完成后**返回**即可（不要点击“设置为LittleSkin”），然后就可以登录您在我们皮肤站上注册的账户了！
+填写完成后**返回**即可（不要点击“设置为LittleSkin”）    
+填写完成后**返回**即可（不要点击“设置为LittleSkin”）    
+填写完成后**返回**即可（不要点击“设置为LittleSkin”）  
+然后就可以登录您在我们皮肤站上注册的账户了！
 ### HMCL
 **账户**-**添加认证服务器（外置登录）**     
 服务器地址填写`https://skin.our-mc.cn/api/yggdrasil`，完成        

@@ -12,9 +12,3 @@
 - **腾讯频道**：[点击链接加入腾讯频道](https://pd.qq.com/s/cvgjafgpl)
 - **QQ 1群**：[点击链接加入群聊](https://qm.qq.com/q/49LE4sBQ3m)
 - **QQ 2群**：[点击链接加入群聊](https://qm.qq.com/q/8hYCAbvnt)
-
-## 入服指南
-1. 使用 [ourmc皮肤站](https://skin.our-mc.cn/) 登录 **1.21.8** 版本客户端加入服务器。
-    **IP：`mc.our-mc.cn`**
-2. 同意我们的[用户协议](/EULA)      
-**请自觉遵守社区礼仪，共同维护游戏环境。**
