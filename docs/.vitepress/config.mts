@@ -26,6 +26,7 @@ export default defineConfig({
     nav: [
       { text: '指南', link: '/guide/what' },
       { text: 'EULA', link: '/EULA' },
+      { text: '广告位招租', link: '/ads' },
       { text: 'ourmc皮肤站', link: 'https://skin.our-mc.cn' }
     ],
 
@@ -41,7 +42,7 @@ export default defineConfig({
       {
         text: '了解更多',
         items: [
-          { text: '服务器人物档案', link: '/guide/players' },
+          { text: '运营团队', link: '/guide/players' },
           { text: '新手指南', link: '/guide/new' },
           { text: '常见问题', link: '/guide/faq' }
         ]
