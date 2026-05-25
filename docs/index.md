@@ -23,4 +23,6 @@ features:
     details: 联系我们：team@our-mc.cn support@our-mc.cn QQ865332228
 ---
 
+https://motd.minebbs.com/api/status_img?ip=owl1.vipi9.top&port=11101&stype=auto&theme=simple
+
 ## 服务器目前已濒临难以维持的状态，若有玩家愿意为服务器提供资金、设备支持，请联系腐竹QQ 3877364376
