@@ -7,8 +7,8 @@ hero:
   text: "探索无边，方块筑梦"
   tagline: 一个原版就能玩的模组Minecraft服务器
   image:
-    src:https://motd.minebbs.com/api/status_img?ip=owl1.vipi9.top&port=11101&stype=auto&theme=simple
-    alt:MOTD
+    src: https://motd.minebbs.com/api/status_img?ip=owl1.vipi9.top&port=11101&stype=auto&theme=simple
+    alt: MOTD
   actions:
     - theme: brand
       text: 什么是ourmc
