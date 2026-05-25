@@ -25,6 +25,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '指南', link: '/guide/what' },
+      { text: 'Ourmc Launcher', link: '/launcher' },
       { text: 'EULA', link: '/EULA' },
       { text: '广告位招租', link: '/ads' },
       { text: 'ourmc皮肤站', link: 'https://skin.our-mc.cn' }
@@ -47,6 +48,15 @@ export default defineConfig({
           { text: '常见问题', link: '/guide/faq' }
         ]
       }
+    ],
+    '/launcher': [
+      {
+        text: 'Ourmc Launcher',
+        items: [
+          { text: '下载', link: '/launcher/download' },
+          { text: '使用教程', link: '/launcher/tutorial' }
+        ]
+      },
     ]
   },
 
