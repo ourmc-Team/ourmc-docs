@@ -49,15 +49,6 @@ export default defineConfig({
         ]
       }
     ],
-    '/launcher': [
-      {
-        text: 'Ourmc Launcher',
-        items: [
-          { text: '下载', link: '/launcher/download' },
-          { text: '使用教程', link: '/launcher/tutorial' }
-        ]
-      },
-    ]
   },
 
   footer: {
