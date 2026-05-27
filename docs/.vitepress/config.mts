@@ -25,6 +25,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '指南', link: '/guide/what' },
+      { text: '最新公告', link: 'news' },
       { text: 'Ourmc Launcher', link: '/launcher' },
       { text: 'EULA', link: '/EULA' },
       { text: '广告位招租', link: '/ads' },
