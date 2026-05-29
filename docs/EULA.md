@@ -162,4 +162,4 @@
 ### 附件
 
 **ourmc服务器增值服务通用条款**
-**链接：** [ourmc服务器增值服务通用条款](./SupplementalTerm)
+**链接：** [ourmc服务器增值服务通用条款](./SupplementalTerm.html)
