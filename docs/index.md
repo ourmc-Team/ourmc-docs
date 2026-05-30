@@ -22,5 +22,3 @@ features:
   - title: 举报反馈/招贤纳士
     details: 联系我们：team@our-mc.cn support@our-mc.cn QQ865332228
 ---
-
-## 服务器目前已濒临难以维持的状态，若有玩家愿意为服务器提供资金、设备支持，请联系腐竹QQ 3877364376
