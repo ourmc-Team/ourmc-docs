@@ -46,7 +46,8 @@ export default defineConfig({
         items: [
           { text: '运营团队', link: '/guide/players' },
           { text: '新手指南', link: '/guide/new' },
-          { text: '常见问题', link: '/guide/faq' }
+          { text: '常见问题', link: '/guide/faq' },
+          { text: '服主女装视频', link: '/guide/nvzhuang' }
         ]
       }
     ],
