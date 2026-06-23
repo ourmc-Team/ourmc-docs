@@ -3,7 +3,7 @@
 只需几步即可进入 OurMC 开启游戏。
 
 ## 连接信息
-- **服务器 IP**：`mc.our-mc.cn`
+- **服务器 IP**：`our-mc.cn`
 - **支持版本**：1.21.8
 - **登录方式**：[ourmc皮肤站](https://skin.our-mc.cn/) 验证登录
 
