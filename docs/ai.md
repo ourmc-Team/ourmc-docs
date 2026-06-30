@@ -1,23 +1,21 @@
-LLM-Research/Llama-4-Maverick-17B-128E-Instruct
+阿里千问：Qwen/Qwen3.5-35B-A3B
 
-MiniMax/MiniMax-M3
+Zai智谱清言：ZhipuAI/GLM-5.1
 
-PaddlePaddle/ERNIE-4.5-21B-A3B-PT
+Zai智谱清言：ZhipuAI/GLM-5.2
 
-Qwen/Qwen3.5-35B-A3B
+深度求索：deepseek-ai/DeepSeek-V4-Pro
 
-XiaomiMiMo/MiMo-V2.5-Pro
+深度求索：deepseek-ai/DeepSeek-V4-Flash
 
-ZhipuAI/GLM-5.1
+米斯特尔：mistralai/Mistral-Large-Instruct-2407
 
-ZhipuAI/GLM-5.2
+阶跃星辰：stepfun-ai/Step-3.7-Flash
 
-deepseek-ai/DeepSeek-V4-Pro
+MiniMax：MiniMax/MiniMax-M3
 
-inclusionAI/Ring-2.6-1T
+开放路由（智能选择多模态）：openrouter/free
 
-meituan-longcat/LongCat-Flash-Lite
+上海人工智能实验室：Shanghai_AI_Laboratory/Intern-S2-Preview
 
-mistralai/Mistral-Large-Instruct-2407
-
-stepfun-ai/Step-3.7-Flash
+开放GV：OpenGVLab/InternVL3_5-241B-A28B
